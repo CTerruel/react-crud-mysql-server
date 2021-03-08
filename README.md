@@ -11,3 +11,7 @@ DB_PASSWORD=senha-do-banco
 DB_NAME=family
 
 O nome da tabela é users
+
+Instale as dependências com: npm install
+
+Rode o server com: npm start
